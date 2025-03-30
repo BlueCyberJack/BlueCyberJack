@@ -5,7 +5,7 @@ As a dedicated UK-based police officer, I specialise in investigating crimes fac
 
 My policing career has provided me with a plethora of skills that are highly transferable to the cybersecurity field. Investigating crimes facilitated through digital devices and the internet has strengthened my ability to analyse complex data, identify threats, and assess risk within a digital setting. Working within a regulatory and compliance-driven environment has enhanced my expertise in risk management, policy adherence, and investigative procedures. Additionally, my experience and skill-set in critical decision-making, problem-solving, and intelligence gathering has equipped me to proactively identify vulnerabilities and mitigate risk. 
 
-Please go ahead and take a look at my LinkedIn profile:
+Connect with me on LinkedIn:
 
 <a href="https://www.linkedin.com/in/jack-colton-470b38119/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
