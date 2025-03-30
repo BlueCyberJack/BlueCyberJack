@@ -17,10 +17,10 @@ My ultimate goal is to transition my policing and investigative expertise into t
 I currently lack the pratical skills and experience required to function effectively within a cybersecurity role, which is why I have set out a structured learning pathway to bridge these gaps. 
 
 ## Learning Pathways
- IT Fundamentals
+ IT Foundational Knowledge
 
 
- Cybersecurity
+ Cybersecurity Learning 
  
 
  ## Certifications 
